@@ -1,0 +1,4 @@
+Cash|200
+Health|300
+Home|400
+Shopping|500

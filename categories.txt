@@ -1,0 +1,6 @@
+Leisure|Provider 1
+Cash|Provider 2
+Health|Provider 3
+Home|Provider 1
+Shopping|Provider 3
+Transport|Provider 1

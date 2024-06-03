@@ -1,0 +1,13 @@
+Date: 2024-05-24, Type: Cash, Amount: 20.0, Category: Car, Description: No description provided
+Date: 2024-05-24, Type: Cash, Amount: 232.0, Category: Car, Description: No description provided
+Date: 2024-05-24, Type: Cash, Amount: 232.0, Category: Car, Description: No description provided
+Date: 2024-05-24, Type: Cash, Amount: 200.0, Category: health, Description: No description provided
+Date: 2024-05-24, Type: Cash, Amount: 12.0, Category: Health, Description: No description provided
+Date: 2024-05-24, Type: Cash, Amount: 12.0, Category: Health, Description: No description provided
+Date: 2024-05-24, Type: Cash, Amount: 100.0, Category: Home, Description: No description provided
+Date: 2024-05-24, Type: Cash, Amount: 100.0, Category: Home, Description: No description provided
+Date: 2024-05-24, Type: Cash, Amount: 4.0, Category: Liesure, Description: No description provided
+Date: 2024-05-24, Type: Cash, Amount: 4.0, Category: Liesure, Description: No description provided
+Date: 2024-05-24, Type: Card, Amount: 870.0, Category: Health, Description: No description provided
+Date: 2024-05-24, Type: Cash, Amount: 14.0, Category: Car, Description: No description provided
+Date: 2024-05-24, Type: Card, Amount: 23.0, Category: Car, Description: No description provided
